@@ -1,4 +1,4 @@
-from components.base_component import base_component
+from components.base_component import BaseComponent
 
 
 class Fighter(BaseComponent):
